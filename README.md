@@ -12,7 +12,7 @@ A simple yet effective **ToDo List App** that allows users to manage their tasks
 
 ## 🚀 Demo
 
-Check out the live demo of the ToDo List App here: [Live Demo](https://kaleemsipraa.github.io/Todo-List/)
+Check out the live demo of the ToDo List App here: [Live Demo](https://kaleemsipraa.github.io/Todo-List-/)
 
 ## 💻 Technologies Used
 
